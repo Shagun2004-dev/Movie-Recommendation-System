@@ -1,4 +1,4 @@
-# AI-DS-projects
+# Movie Recommendation System
 Movie Recommendation System
 A Python-based Movie Recommendation System that suggests movies based on genre similarity using Scikit-learn and Pandas.
 
